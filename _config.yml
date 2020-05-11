@@ -1,14 +1,24 @@
 # Site
+#网站的标题
 title:              衰兰送客指引
+#要在主页上显示的说明。
 bio:                '怎么能无事可做呢.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
+#设置为true以显示文章的阅读时间。设置，默认值是200。words_per_minute
 reading_time:       true
 words_per_minute:   200
+#你的网站的标志。它将显示在主页和导航菜单。也用于twitter元标签。
 logo:               'assets/img/logo.png'
+#图像的背景。如果你没有设置它，颜色将被用作背景。
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+#例子：
+#url: http://slske.me/Moon
+#url: http://localhost:4000
+#url: //slske.github.io
+#url:
+url:                https://slske.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -20,14 +30,18 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
+#这是启用MAthJax。但如果你不想用它。设置为false。
 mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#将您的disqus短名称设置为使用注释
+disqus_shortname:   slske
 
+#可以输入谷歌Analytics UA和Webmaster工具验证标签。
+#有关获取这些元标签的更多信息，请查看谷歌网站管理员工具和Bing网站管理员工具support._config.yml
 # Social
 # if you don't have any of social below, comment the line.
 #google:

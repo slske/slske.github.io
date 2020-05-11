@@ -10,11 +10,11 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
-    <!--左上角折叠导航
-    {% include nav.html %}-->
+
+    {% include nav.html %}
     <!-- Header -->
     
-<!--    <header class="header" role="banner">
+   <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
@@ -25,9 +25,9 @@ layout: compress
                       <i class="fa fa-clock-o"></i>
                       {% include read-time.html %}
                     </p>
--->
+
     <!-- /.entry-reading-time -->
-<!--
+
                     {% endif %}
                     {% if page.project %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
@@ -47,11 +47,11 @@ layout: compress
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
--->
+
     <!-- MathJax -->
-<!--
+
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
--->
+
 </body>
 </html>

@@ -7,8 +7,8 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 #设置为true以显示文章的阅读时间。设置，默认值是200。words_per_minute
 reading_time:       true
 words_per_minute:   200
-#你的网站的标志。它将显示在主页和导航菜单。也用于twitter元标签。
-logo:               'assets/img/logo.png'
+#你的网站的标志。它将显示在主页和导航菜单。也用于twitter元标签。本地logo地址：assets/img/logo.png
+logo:               'https://u-file.slske.com/slske_github_io/logo.png'
 #图像的背景。如果你没有设置它，颜色将被用作背景。路过图床备用背景：https://s1.ax1x.com/2020/05/15/YDbgjs.jpg
 background:         'https://u-file.slske.com/slske_github_io/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered

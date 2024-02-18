@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 衰兰送客</title>
+    <link>http://slske.github.io/blog/categories/</link>
+    <description>Recent content in Categories on 衰兰送客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Feb 2024 21:18:00 +0000</lastBuildDate>
+    <atom:link href="http://slske.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站日志录</title>
+      <link>http://slske.github.io/blog/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</link>
+      <pubDate>Sat, 17 Feb 2024 21:18:00 +0000</pubDate>
+      <guid>http://slske.github.io/blog/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>稚嫩回忆</title>
+      <link>http://slske.github.io/blog/categories/%E7%A8%9A%E5%AB%A9%E5%9B%9E%E5%BF%86/</link>
+      <pubDate>Wed, 09 Mar 2022 22:59:00 +0000</pubDate>
+      <guid>http://slske.github.io/blog/categories/%E7%A8%9A%E5%AB%A9%E5%9B%9E%E5%BF%86/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>建站 on 衰兰送客</title>
+    <link>http://slske.github.io/blog/tags/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on 衰兰送客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Feb 2024 21:18:00 +0000</lastBuildDate>
+    <atom:link href="http://slske.github.io/blog/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024Hugo建站日志录</title>
+      <link>http://slske.github.io/blog/posts/2024hugo%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</link>
+      <pubDate>Sat, 17 Feb 2024 21:18:00 +0000</pubDate>
+      <guid>http://slske.github.io/blog/posts/2024hugo%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</guid>
+      <description>迁站原因 服务器和域名费都不想付费了。 累计消费(24.2-24.2) 0元 当前服务器&amp;amp;网站配置 github</description>
+    </item>
+    <item>
+      <title>2021Hexo建站日志录</title>
+      <link>http://slske.github.io/blog/posts/2021hexo%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</link>
+      <pubDate>Fri, 12 Feb 2021 16:20:00 +0000</pubDate>
+      <guid>http://slske.github.io/blog/posts/2021hexo%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</guid>
+      <description>公告 已于2024年2月18日迁站到github，以下配置皆失效。 搬迁时间： 2024-02-18 当天博客信息: 文章数目：</description>
+    </item>
+    <item>
+      <title>2020typecho建站日志录</title>
+      <link>http://slske.github.io/blog/posts/2020typecho%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://slske.github.io/blog/posts/2020typecho%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97%E5%BD%95/</guid>
+      <description>公告 已于2021年2月9日迁站到腾讯云，以下配置皆失效。 搬迁时间： 2021-02-04 当天博客信息: 文章数目：28 评论</description>
+    </item>
+  </channel>
+</rss>
